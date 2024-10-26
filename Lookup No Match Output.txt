@@ -1,0 +1,1 @@
+Lookup No Match Output - ścieżka, która zawiera wszystkie rekordy tabeli, które nie znalazły dospaowania z look up table. Innymi słowy Lookup No Match Output przechwytuje rekrody, które nie mają swojego odpowiednika.
