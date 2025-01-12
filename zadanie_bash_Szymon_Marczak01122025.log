@@ -1,0 +1,21 @@
+20250112155212 - Pobieranie pliku - Start
+20250112155212 - Pobieranie pliku - Zakończenie
+20250112155212 - Rozpakowwywanie pliku - Start
+20250112155212 - Rozpakowwywanie pliku - Zakończenie
+20250112155212 - Walidacja - Start
+20250112162407 - Walidacja zakończona. Plik wynikowy: InternetSales_validated.csv, Plik z błędami: InternetSales_new.bad_01122025 - 
+20250112162407 - Tworzenie bazy - Start
+20250112162408 - Tworzenie bazy - Czyszczenie tabeli jeśli istnieją rekordy
+20250112162408 - Ładowanie danych - Start
+20250112162408 - Ładowanie danych - Pomyślnie
+20250112162408 - Archiwizacja - Start
+20250112162408 - Archiwizacja - PROCESSED - pomyślnie utworzono folder
+20250112162408 - Archiwizacja - Pomyślnie
+20250112162408 - Aktulizacja SecretCode - Start
+20250112162409 - Aktulizacja SecretCode - Pomyślnie
+20250112162409 - Export - Start
+20250112162409 - Export - Pomyślnie
+20250112162409 - Kompresja - Start
+20250112162409 - Kompresja - Pomyślnie
+20250112162409 - Czyszczenie - Plik usunięty pomyślnie
+20250112162409 - Wykonanie skryptu - Skrypt zakończony pomyślnie
